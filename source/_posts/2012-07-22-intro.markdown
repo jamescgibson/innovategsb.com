@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Intro"
+date: 2012-07-22 08:23
+comments: true
+categories: "self"
+---
+
+Here, Steve and James will do cool things.
